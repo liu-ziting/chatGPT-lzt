@@ -1,11 +1,5 @@
 # ChatGPT-API Vercel
 
-![](assets/screenshot.png)
-
-对 [diu8081/chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) 进行功能上的增强。
-
-预览: [https://vercel-chatgpt-github.vercel.app](https://vercel-chatgpt-github.vercel.app)
-
 ## 部署一个你自己的（免费）
 
 > 本项目主要面向中文用户，所以用中文，原版是英文的。
